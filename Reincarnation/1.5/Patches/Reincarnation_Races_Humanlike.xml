@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="Human"]/race</xpath>
+		<value>
+			<deathAction>
+				<workerClass>Reincarnation.DeathActionWorker_AddToReincarnation</workerClass>
+			</deathAction>
+		</value>
+	</Operation>
+</Patch>

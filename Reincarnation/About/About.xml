@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Reincarnation</name>
+	<author>Vex</author>
+	<packageId>Vex.Reincarnation</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+	<description>Let your pawns live on even through as they reincarnate into the next born child!</description>
+</ModMetaData>

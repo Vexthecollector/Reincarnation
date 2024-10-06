@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reincarnation", "Reincarnation.csproj", "{93F215A7-1B61-4931-9D03-AF23E36F81D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93F215A7-1B61-4931-9D03-AF23E36F81D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F215A7-1B61-4931-9D03-AF23E36F81D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F215A7-1B61-4931-9D03-AF23E36F81D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F215A7-1B61-4931-9D03-AF23E36F81D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8139C8C2-1EE2-4B4A-A7D4-8FDAC728FF9E}
+	EndGlobalSection
+EndGlobal
